@@ -1,5 +1,6 @@
 # Giới thiệu
 Tìm hiểu về ngôn ngữ Python và xây dựng game bằng ngôn ngữ python
+
 Chương trình xây dựng nhằm tìm hiểu các thuật toán 
 AI trong các trò chơi đối kháng, Minimax và 
 Alpha Beta Pruning
